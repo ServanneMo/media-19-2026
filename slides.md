@@ -1,6 +1,6 @@
 ## "Passez au niveau supérieur"
 
-### Les nouveaux discours de l'indépendance journalistique en question
+### Le discours de l'indépendance journalistique à l'ère post-internet
 
 ![](img/niveau-superieur.png)
 
@@ -106,7 +106,9 @@ L'applification du Web, et plus généralement sa plateformisation, ont introdui
 
 ## _Dead Internet theory_ : la fin des utopies ?
 
-![articleDead](img/)
+![articleDead](img/atlantic-dead-internet.png)<!-- .element: style="width:40%;float:left;margin-right:-1em;" -->
+
+![](img/shrimp-jesus.jpg)<!-- .element: style="width:60%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -130,6 +132,7 @@ Il y aurait plein d'angles à travailler à partir de là, mais dans le cadre de
 
 ## Patreon, le réseau anti réseau social
 
+![](img/become_a_patron.png)
 
 
 ===
@@ -147,7 +150,6 @@ Comparée aux grandes plateformes sociales et culturelles, Patreon apparaît pre
 
 Source : Canal discord de Cerno
 
-
 <!--.element class="source"-->
 
 ===
@@ -157,8 +159,14 @@ Patreon mise en effet sur une sociabilité plus authentique que sur les autres r
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Create for your audience, not algorithms.
->Creators deserve community, not chaos. #tiktokban
+![](img/patreon-x.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
+
+![](img/tiktokban.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
+
+Source : Compte X de @Patreon
+
+<!--.element class="source"-->
+
 
 ===
 
@@ -175,13 +183,13 @@ Ces choix détonnent au regard des enjeux de participation des publics qui, dans
 Le modèle de Jack Conte
 
 * Moins de traitements algorithmiques
-* Valorisation du "true fans"/"true follow"
+* Valorisation du "true fan"/"true follow"
 * Retour à des micro-communautés
 * Philosophie du Web 1.0
 
 ===
 
-En résumé, la plateformisation croissante provoque une régulation de la participation, dévoyée à des fins commerciales — c’était d’ailleurs là l’objectif annoncé dès 2005 par Tim O’Reilly, pionnier de l’édition numérique et grand promoteur du Web 2.0. Bien qu’émanant des grandes utopies du web qui prônaient l’horizontalisation des échanges et l’autogouvernance, la culture participative tendrait ainsi de plus en plus vers une logique du capital. Jack Conte, le co-fondateur de Patreon, assure ainsi la promotion de sa plateforme en dénonçant les dérives du management algorithmique propres aux grands médias et réseaux sociaux. Il oppose à l’économie du clic les concepts de « true follow » ou encore de « true fans ». Son discours, dont on peut entendre de larges extraits dans des conférences de type Ted Talk rediffusés sur Youtube, s’inscrit dans une réflexion historique sur la participation et les sociabilités numériques depuis l’invention du web. Il défend notamment le retour à des microcommunautés (des communautés sélectionnées sur l’expertise et l’engagement, notamment financier, qu’elles sont prêtes à prendre pour un artiste) en s’appuyant sur une nostalgie de plus en plus grande à l’égard du web 1.0.
+En résumé, la plateformisation croissante provoque une régulation de la participation, dévoyée à des fins commerciales — c’était d’ailleurs là l’objectif annoncé dès 2005 par Tim O’Reilly, pionnier de l’édition numérique et grand promoteur du Web 2.0. Bien qu’émanant des grandes utopies du web qui prônaient l’horizontalisation des échanges et l’autogouvernance, la culture participative tendrait ainsi de plus en plus vers une logique du capital. Jack Conte, le co-fondateur de Patreon, assure ainsi la promotion de sa plateforme en dénonçant les dérives du management algorithmique propres aux grands médias et réseaux sociaux. Il oppose à l’économie du clic les concepts de « true follow » ou encore de « true fans ». Son discours, dont on peut entendre de larges extraits dans des conférences de type Ted Talk rediffusés sur Youtube, s’inscrit dans une réflexion historique sur la participation et les sociabilités numériques depuis l’invention du web. Il défend notamment le retour à des microcommunautés (des communautés sélectionnées sur l’expertise et l’engagement, notamment financier, qu’elles sont prêtes à prendre pour un artiste) en s’appuyant sur une nostalgie de plus en plus grande à l’égard du web 1.0 qui vient servir un certain discours de l'authenticité.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -213,6 +221,8 @@ Tal Madesta est un journaliste indépendant et essayiste, d'une génération plu
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+![](img/marine-perin.png)
+
 ===
 
 Marine Périn est vidéaste, réalisatrice et journaliste francophone, spécialisée dans la presse féministe. Elle s'est faite connaître grâce aux RSN et en particulier à sa chaîne YouTube sous le nom de Marinette. En 2020, elle a remporté le prix EllesFontYouTube pour son documentaire *Traquées*. Depuis quelques années, Marine Périn a progressivement déserté les réseaux pour se consacrer à des projets portés par des médias plus institutionnels. Elle ne publie plus que sur son Patréon depuis à peu près 2 ans. Son espace Patreon lui sert principalement à parler de journalisme, c'est-à-dire de la fabrique de l'information. 
@@ -228,7 +238,7 @@ Korben (pseudo de Manuel Dorne) n'est pas journaliste de formation, mais il s'es
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Difficultés et limites méthodologiques
+### Difficultés et limites méthodologiques
 * Approche circonscrite à une sémiotique des plateformes
 * Cherchabilité limitée
 * Périmètre discutable
@@ -255,7 +265,9 @@ Quand on passe un peu de temps sur les Patreon de ces quatre auteurs, la questio
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## L'indépendance médiatique et éditoriale : un discours technocritique qui tend à se politiser
+### [1] L'indépendance médiatique et éditoriale : un discours technocritique qui tend à se politiser
+
+![](img/madesta-panic-reseau.png)<!-- .element: style="width:400px" -->
 
 ===
 
@@ -331,7 +343,9 @@ Ce qui est intéressant, c'est que chacun des profils que j'ai sélectionnés ex
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## L'indépendance formelle et esthétique : éloge des longs formats
+### [2] L'indépendance formelle et esthétique : éloge des longs formats
+
+![](img/cerno-collection-enfants-victime.png)<!-- .element: style="width:400px" -->
 
 ===
 
@@ -397,8 +411,9 @@ Patreon, de ce point de vue, me semble inverser une tendance des RSN qui jouaien
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## L'indépendance financière : la valeur du travail journalistique en question
+### [3] L'indépendance financière : la valeur du travail journalistique en question
 
+![](img/niveau-sup.gif)<!-- .element: style="width:400px" -->
 
 ===
 
@@ -433,11 +448,9 @@ L'un des principaux intérêts de Patreon, c'est qu'il met au centre du problèm
 
 #### Tal Madesta, Marine Perin : plusieurs niveaux de contribution pour un accès identique
 
->Le don solidaire (3 € / mois) : Tu n'as pas beaucoup de ressources financières mais tu souhaites quand même accéder au contenu exclusif. Pas de problèmes : le don solidaire te le permet, sans que ça ne fragilise mon modèle économique. Merci de me faire confiance !
+![](img/madesta-don.png)<!-- .element: style="width:500px" -->
 
->Le don conseillé (6€/mois) : c'est le prix réel de mon travail, à choisir si tu ne souhaites pas/ne peux pas faire un don solidaire, mais que tu peux quand même t'engager sur ce montant. Merci à toi pour ce soutien précieux ! 
-
->Le don éthique (20€/mois) : tu as les moyens financiers de me soutenir, et tu permets à d'autres personnes ayant peu de revenus d'accéder à mon contenu tout en m'assurant un modèle viable sur le long-terme. Merci beaucoup, pour elles et pour moi ! Tous ces niveaux donnent accès au même contenu : je ne souhaite pas que les revenus de chacun-e conditionnent l'accès à ce que je propose. Ce système fonctionne sur la confiance : c'est à toi de réfléchir sur ce que tu es en mesure (ou non) de donner pour le travail que je produirai spécifiquement ici.
+>**Tous ces niveaux donnent accès au même contenu : je ne souhaite pas que les revenus de chacun-e conditionnent l'accès à ce que je propose. Ce système fonctionne sur la confiance : c'est à toi de réfléchir sur ce que tu es en mesure (ou non) de donner pour le travail que je produirai spécifiquement ici.**
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
@@ -467,7 +480,14 @@ Cette proposition de Tal Madesta, partagée par d'autres, me donne la transition
 
 Éléments de conclusion et de réflexion autour de l'écologie de l'attention post-plateforme
 
-![](img/becomeApatron.jpeg)<!-- .element: style="width:400px" -->
+* Un modèle plus engagé, engageant, exigeant
+* Une écologie de l'attention qui tend vers la sobriété numérique
+* Entre monétisation et responsabilisation de la relatio parasociale
+
+<!-- .element: style="width:60%;float:left;margin-left:-1em; font-size:2rem; text-align:justify" -->
+
+
+![](img/becomeApatron.jpeg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
 
 ===
 
@@ -478,7 +498,6 @@ En préparant cette communication, je me suis en fait abonnée "gratuitement" à
 Patreon n'est pas conçue pour suivre autant de profils. Elle engage, du côté de l'usager, une forme de sobriété ou d'écologie de l'attention qui oblige à opérer des choix (une poignée de comptes), qui sont des choix économiques mais également des choix attentionnels. Les contenus publiés sur Patreon, souvent approfondis, requièrent un engagement et une attention soutenue, contrairement aux plateformes sociales habituées aux contenus brefs et aux formes fragmentaires propres au micro-blogging. Bref, s'abonner c'est s'engager, c'est choisir ce que l'on va véritablement pouvoir lire, écouter ou regarder. C'est peut-être cela, cette nouvelle condition de ce que jack Conte appelle le "true fan", qui dans un sens est aussi devenu le "patron", le mécène de son créateur de contenu favori, sur la promesse d'une relation plus authentique. 
 
 Cette relation n'est pas sans risque : à mon sens, il s'agit toujours d'un moyen de monétiser la relation parasociale, c'est-à-dire ce lien affectif unilatéral qu’un individu développe avec une personnalité médiatique, mais en responsabilisant cette relation. Dans un tel contexte, Patreon n’annoncerait-elle pas la fin de la culture de la participation ? Là où le recrutement et l’activation de la participation des internautes sont une préoccupation majeure des gestionnaires de plateformes créatives et des organisateurs d’opérations participatives, la plateforme Patreon aurait donc tendance à diminuer les effets de surproduction et de spectacularisation. Elle semble, pour le moment, poser les conditions d’une sociabilité numérique d’un genre nouveau, fondée sur l’expertise du lecteur, sur sa contribution financière directe, et non plus sur une gestion algorithmique avide de capter l’attention du lecteur pour mieux la monétiser.
-
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
