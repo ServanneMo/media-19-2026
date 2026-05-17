@@ -1,564 +1,486 @@
-## "_Become a Patron..._"
+## "Passez au niveau supérieur"
 
-### Gestion de projets littéraires et _community management_ sur Patreon
+### Les nouveaux discours de l'indépendance journalistique en question
 
-![](img/signal-2024-06-12-104656_003.jpeg)<!-- .element: style="width:300px" -->
+![](img/niveau-superieur.png)
+
+===
+
+"Passez au niveau supérieur" : pourquoi ce titre ? Il vient d'une injonction que je ne cesse de rencontrer depuis quelques mois, où j'ai commencé à explorer, d'abord pour ma curiosité ou consommation culturelle personnelle, puis pour avec une perspective académique et de recherche, ce que je qualifierai d'alternatives aux médias numériques dominants. "Plateformisation", "algorithmisation" du journalisme... de nombreux concepts existent pour qualifier les difficultés voire les dérives de la production littéraire ou journalistique dans un contexte numérique largement dominé par les GAFAM. Dans ce contexte de concentration éditoriale numérique, des alternatives, ou des outils se présentant comme des alternatives ont émergé depuis déjà plusieurs années : je pense aux outils du fédiverse comme Mastodon, mais aussi les alternatives plus "grand public" comme BlueSky ou Substack. Ces alternatives connaissent un succès grandissant dans un contexte de dégradation des services proposés par les GAFAM.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-
-### Management et littératures... "numériques" : les risques de l'auto-édition
-
+![](img/cerno-niveau-sup.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
 
 
-![](img/agessa.jpg)<!-- .element: style="width:600px" -->
+![](img/niveau-sup-marine-perin.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
 
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
+===
+
+"Passez au niveau supérieur", c'est donc ce message que je rencontre très régulièrement sur Patreon, ou encore Substack, lorsque je décide de m'abonner au profil d'un auteur, d'un journaliste ou d'un créateur de contenu. J'emploie bien le terme d'abonnement, puisqu'il ne s'agit plus de "suivre" un contributeur comme j'en avais l'habitude sur les RSN traditionnels, mais bien de payer pour avoir un accès à des contenus "spéciaux" ou "supplémentaires".
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/niveau-sup.gif)<!-- .element: style="width:600px" -->
+
+===
+
+Ce passage au niveau supérieur a donc un coût, qui n'est pas négligeable. Quelques euros pour un abonnement, et la note peut vite monter lorsque l'on souhaite suivre plusieurs producteurs de contenus. Là où j'ai pu suivre des centaines voire des milliers de personnes sur certains réseaux, je ne peux pas me permettre ce même engagement sur Patreon, pour des raisons notamment financières. Mais qu'est-ce que cela veut dire exactement, passer au niveau supérieur ? De quel engagement parle-t-on, de la part de l'auteur comme du lecteur ? Dans ces nouveaux modèles éditoriaux, qui s'appuient sur de nouveaux modèles économiques, assiste-t-on à un déplacement de la valeur des contenus numériques ? Et, si déplacement il y a, en quoi celui-ci transforme-t-il certaines utopies de la culture numérique, en particulier celle de la culture du libre et du _peer to peer_, de la liberté d'expression et de l'auto-gouvernance -- des principes que l'on a pu retrouver dans un texte fondateur de la culture Web : *La Déclaration d'indépendance du cyberespace* de John Barlow ? Pour le dire encore autrement, et de manière un peu provocatrice, la culture numérique est-elle encore une culture populaire -- ou ne l'a-t-elle été que provisoirement et sur un malentendu ? 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Contexte théorique & méthodologique : </br>étudier le Web à l'ère post-internet 
+
+![WayBackMachine](img/wayback-machine-lemonde.png)<!-- .element: style="width:50%;float:left;margin-right:-1em;" -->
 
 
 
->Zut alors : privé d’« assiette sociale ». J’avais une assiette sociale sans le savoir et je n’en ai plus.
-Dingue : pour la 1ère fois depuis... 1986, JE NE SUIS PLUS auteur ni quedalle... bon, j’ai du vieux cuir tanné – et quelques états de service derrière moi, mais ça montre bien :
-- 1, comment la précarisation des auteur.e.s touche globalement et massivement désormais TOUTE la profession ;
-- 2, que le régime démerde ça va être massivement la règle pour tou.te.s les d’jeuns qui débarquent dans le métier ;
-
->Francois Bon, [Tiers Livre, 10 septembre 2018](http://www.tierslivre.net/spip/spip.php?article4777)
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
+![WayBackMachine](img/wayback-lemonde.png)<!-- .element: style="width:50%;float:right;margin-right:-1em;" -->
 
 
 
 ===
 
-Je commencerai par remercier les organisateurs de ce colloque de nous donner l'occasion de réfléchir à cette relation globalement impensée entre littérature et management, à l'exception de quelques travaux récents dont l'appel se faisait l'écho. Merci, car vous m'avez permis de me pencher sur une problématique que la communauté des chercheurs en littérature numérique pressent depuis maintenant plusieurs années, sans pour autant vraiment mettre les pieds dans le plat : l'organisation du travail des écrivains appartenant au champ de la littérature "numérique", leur rémunération, leurs compétences, ainsi l'évaluation de la valeur de leur "travail" littéraire, qui est également un travail de "création de contenus numériques", qui relève de ce que l'on appelle dans le champ littéraire de l'auto-édition. 
+Après cette entrée en matière un peu directe, je vais me permettre d'ouvrir une parenthèse un peu longue, mais qui me semble très importante pour préciser ma problématique et mes arguments.
 
-Pourtant, cette question est centrale. Anecdote : F. Bon qui perd son statut d'écrivain pour avoir trop publié en dehors des clous... ou l'écrivain qui ne rentre plus dans les cases de l'administration française. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-* Littératures numériques : pour une _approche par projet_
-
->La notion de projet met en avant une idée et une finalité à atteindre, dont elle déconstruit déjà des étapes et une progession : elle souligne le travail préparatoire et les moyens nécessaires à l'élaboration d'un produit final.  Désormais, c'est donc le projet qui fait œuvre, et transforme au passage le sens accordé à cette dernière - en particulier en bousculant ses enjeux de stabilité et de clôture 
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:right;margin-right:-3em;" -->
-
-
-![](img/MADELEINE_TWEETS_S1_135.jpg)
-
-<!-- .element: style="width:60%;float:left;margin-left:-3em;" -->
-
-===
-
-J'avais prévu une introduction bcp trop longue où je balisais des concepts propres au champ de la littérature numérique, concept qui ont été assez important pour préparer les propos qui vont suivre, mais faut de temps j'ai tout enlevé ou presque. Je ne garderai qu'une seule remarque préliminaire : cela fait déjà quelque temps que pour parler des objets qui forment mon corpus, je ne parle plus d'œuvre littéraire, un concept plutôt issu du paradigme de l'imprimé, mais plutôt de projet littéraire. J'ai opéré ce choix en m'inspirant du vocabulaire et des pratiques de l'art contemporain, mais je réalise ici combien la notion d'*approche par projet* que je mobilise résonne avec les enjeux managériaux qui nous occupent. La notion de projet met en avant une idée et une finalité à atteindre, dont elle déconstruit déjà des étapes et une progession : elle souligne le travail préparatoire et les moyens nécessaires à l'élaboration d'un produit final, et bien souvent ouvert à la contribution, à la discussion -- bref, à une sorte de management participatif qui s'est généralisé dans le champ des littératures numériques. 
-
-Sur un plan poétique, la notion de projet n'est pas neutre : elle déplace l'intérêt du lecteur sur le processus créatif plutôt que sur un artefact final. Désormais, c'est donc le projet qui fait œuvre, et transforme au passage le sens accordé à cette dernière -- en particulier en bousculant ses enjeux de stabilité et de clôture : la publication numérique a permis aux écrivains de développer une poétique du chantier, où le lecteur assiste à un nouveau type de performance, laquelle fait partie de l'expérience esthétique. Non seulement l’instabilité et le caractère inachevé du texte ne sont plus tabous, mais ils font même tout l’intérêt du texte littéraire en ligne : tâtonnements, hésitations, brouillons, ratés... la poétique littéraire en contexte de publication numérique revient à son sens premier, un art du *faire*, qui bénéficie d'une publication en temps quasi réel. L'approche par projet, en d'autres termes, est une conséquence directe de la littérature éditorialisée.
+Je commencerai par situer mon propos dans un champ épistémologique qui n'est pas nécessairement connu de toutes et tous : le champ des _Web Studies_, un domaine assez récent en raison même de l'âge de l'objet qu'il présent étudier, le Web, inventé en 1990 par Tim Berners-Lee puis ouvert au "monde" en 1996. Les _Web studies _ proposent une approche interdisciplinaire du Web considéré comme une technologie, mais surtout comme un phénomène social, culturel, économique et politique. Dans le champ des _Web studies_, se développent depuis plusieurs années un travail d'analyse des _archives du Web_, qui ont été co-développées par des organisations à but non lucratif (WebArchive foundation que l'on connaît souvent via sa WayBack Machine), mais également par nos institutions patrimoniales (en France, BNF et INA). En d'autres termes, le Web est passé à l'histoire, et gagne à être étudié comme un objet historique, et plus seulement comme un phénomène contemporain. Ce passage à l'histoire est aussi marqué par notre entrée dans une ère parfois qualifiée de "post-internet". Catégorie un peu floue, le post-internet est à l'Internet ce que la post-modernité est à la modernité, c'est-à-dire qu'il désigne ce moment où les technologies de l'internet se sont sécularisées, invisibilisées sous l'effet de leur généralisation massive. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Hypothèse de travail
+>Le paradoxe des technologies et en particulier d’Internet, c’est que leur généralisation signe d’une certaine façon leur fin. C’est là une tension bien connue : quand une technologie est adoptée, elle disparaît dans son usage, sa singularité la distinguant d’autres modes d’existence semble se dissoudre d’elle-même.
 
-Si on considère ce déplacement de l'expérience esthétique vers le *faire*, alors l'oeuvre numérique apparaît comme un art du management littéraire arrimé à des outils spécifiques : les plateformes, dont la conception technique et le formalisme éditorial n'ont plus grand-chose à voir avec une certaine "idée" de littérature héritée du paradigme imprimé. De par son incursion dans un écosystème numérique, l'écriture littéraire négocie avec un mode de gestion des contenus (directement issu du modèle CMS) et de gestion des communautés de lecteurs (principe du community mamagement) reposant sur une économie de l'attention qui lui était jusqu'à présent étrangère, mais qu'il lui faut apprendre à maîtriser et à adapter.
+>Internet n’est plus alors considéré comme une technologie, le moyen de certaines fins (artistiques par exemple), mais une part prépondérante de notre univers commun, un environnement pop tout comme les médias de masse constituèrent le populaire de la seconde partie du XXe.
 
 <!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
-### Qui/quoi manage qui/quoi ? 
-
-===
-
-**Dès lors, j'ai préparé ma communication autour d'une hypothèse de travail** :
-Si on considère ce déplacement de l'expérience esthétique vers le *faire*, alors l'oeuvre numérique apparaît comme un art du management littéraire, un art cependant arrimé à des outils spécifiques : les plateformes, dont la conception technique et le formalisme éditorial n'ont plus grand-chose à voir avec une certaine "idée" de littérature héritée du paradigme imprimé. De par son incursion dans un écosystème numérique, l'écriture littéraire négocie avec un mode de gestion des contenus (directement issu du modèle CMS) et de gestion des communautés de lecteurs (principe du community mamagement) reposant sur une économie de l'attention qui lui était jusqu'à présent étrangère, mais qu'il lui faut apprendre à maîtriser et à adapter. C'est à cette tension entre la gestion du fait littéraire et la gestion du contenu et de la communauté littéraire que j'ai consacré ma réflexion, en concentrant mes remarques autour d'une plateforme peu connue, mais assez originale dans son genre, Patreon, dont j'explorerai le modèle en m'appuyant sur trois écrivains : François Bon, Anne Savelli, Anne Archet. Qui gère qui ou quoi dans la littérature des plateformes, qui établit une drôle de dynamique entre le CMS, l'interface, le créateur et son public ?  
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Profil &#8470;1 : François Bon
-
-![](img/f_bon_patreon_accueil.png)
-
-===
-
-* F. Bon
-Difficile et peut-être inutile de présenter François Bon, pionnier de la littérature numérique en France, explorateur de nombreux outils de publication numérique depuis les années 1990 : il est passé par toutes sortes de CMS et réseaux sociaux. Ses expérimentations lui ont valu la mauvaise surprise de ne plus répondre aux exigences administratives régissant le statut d'auteur. 
-
-François Bon est sur Patréon depuis 2021. Je suis ses activités sur cette plateforme depuis 1 mois. Ou, plutôt, c'est mon collègue et ami Marcello Vitali-Rosati qui le suit depuis deux ans, avec un abonnement à CA$45.90 par mois. Je le remercie de m'avoir prêté ses codes d'accès pour cette recherche.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Profil &#8470;2 : Anne Savelli 
-
-![](img/a_savelli_accueil_patreon.png)
-
-===
-
-Anne Savelli est peut-être un peu moins connue que François Bon, alors qu'elle est l'autrice de presque une vingtaine d'ouvrages publiés chez différents éditeurs en France. En 2022, son *Musée Marilyn* a paru aux éditions Incultes, et s'est trouvé en lice sur plusieurs prix littéraires. Comme la plupart des récits publiés par Anne Savelli, *Musée Marilyn* est le fruit d'un projet de longue date dont le chantier d'écriture s'est tenu essentiellement en ligne, sur remue.net, sur FenêtresOpenSpace, sur twitter, Facebook et Instagram pendant 7 ans. 
-
-Anne Savelli est sur Patreon depuis un peu moins d'un an. Je la suis depuis la création de son compte, pour 5 euros par mois.
-
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-### Profil &#8470;3 : Anne Archet
-
-![](img/a_archet_accueil_patreon.png)
-
-===
-
-Anne Archet est sans doute l'écrivaine que vous avez le moins de chance de connaître. Il s'agit d'une autrice franco-canadienne, qui sévit sous pseudonyme, un pseudonyme dont les consonances -- Anne Archet, anarchie -- vous éclairent sur le registre d'écriture de l'intéressée. Anne Archet construit depuis plusieurs années une oeuvre féministe et érotico-pornographique en ligne, bien que plusieurs de ses oeuvres aient également fait l'objet de publications imprimées. Si j'ai choisi de travailler sur Anne Archet, c'est parce qu'elle a fait partie de mon corpus d'étude il y a maintenant 8 à 10 ans, dans le cadre de recherche sur les écritures profilaires : les récits de soi, mais également les écrits de fictions, qui utilisaient les réseaux sociaux et les espaces profilaires comme lieu de création. Anne Archet, normalement, c'est donc ça (illustrer). 
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/AnneARchetTwitter.png)
-
-<!-- .element: style="width:60%;float:left;margin-left:-3em;" -->
-
-
-![](img/archet19fev2017.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-*Profils d'Anne Archet sur Twitter et Facebook*
-
-===
-
-Une spécialiste du détournement des grandes plateformes, qui flirte avec les CGU des CMS ou des réseaux, dans une approche que l'on peut rapprocher des *tactical media* ou média tactiques. L'expression, forgée par Geert Lovink et David Garcia, renvoie à une stratégie d'occupation des grands médias dans l'esprit du « cheval de Troie », qui consiste à investir la plateforme pour mieux la torpiller, de l’intérieur. Autant dire que j'étais curieuse de voir ce que Patréon devenait sous son clavier.
-
-Anne Archet est sur Patreon depuis 2017. Je la suis depuis quelques semaines également, pour 2$ par mois. Honte à moi, alors que je la suis depuis des années sur Facebook, sur Twitter et bien évidemment sur ses sites web, je n'avais jamais remarqué sa présence sur Patreon.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-## La littérature des plateformes : vie et mort de l'utopie de la désintermédiation
-
-![](img/AccidentPersonneVissac3.png)
-
-<!-- .element: style="width:45%;float:right;margin-right:-1em;" -->
-
-![](img/AccidentPersonneVissac1.png)
-
-<!-- .element: style="width:45%;float:left;margin-left:-1em;" -->
-
-
-===
-
-Mais n'allons pourtant pas trop vite en besogne, et détaillons un peu cet objet dont je parle depuis tout à l'heure "littérature des plateformes". Avec le web 2.0, au tournant des années 2000, est apparu ce que la critique appelle la "3e génération de littérature numérique" : la littérature des plateformes.
-
-La littérature des plateformes désigne l'ensemble des écrits numériques produits à l'aide d'outils d'édition et de publication ne nécessitant aucune compétence informatique. Ce que j'appelle compétence informatique ici renvoie à des capacités de codage et programmation. Je distingue la compétence informatique des compétences, ou plus précisément de la littératie numérique : la littératie numérique renvoie à une connaissance et une maîtrise davantage culturelle, philosophique, épistémique et politique des technologies numériques. Exemple : je ne suis incapable de programmer en C++, mais je sais que PageRank, l'algorithme de classement du moteur de recherche de Google, qui est programmé en C++, repose sur un principe d'indice de citation, qu'il s'agit donc d'un algorithme dit "d'autorité" selon Cardon. De là, je comprends comment le tri des informations sur Google est opéré, et je peux me permettre d'avoir un avis critique sur ce classement. Même si je n'en connais pas tous les biais dans le détail, j'en ai une idée sommaire qui me permet de ne pas considérer le moteur de recherche comme un oracle -- ni d'ailleurs comme un suppôt du capitalisme de la Silicon Valley.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
->La littérature des plateformes ne requiert aucune compétence en édition numérique ou en programmation. Elle émerge et se diffuse sur des infrastructures éditoriales permettant d'écrire directement en langage naturel, sans s'embarrasser par des considérations informatiques. À cet égard, elle constitue un environnement privilégié pour l'auto-édition contemporaine.
-
-
-<!-- .element: style="font-size:1.4rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/wattpad.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-
-===
-
-La littérature des plateformes, de la même façon, ne requiert aucune compétence en édition numérique ou en programmation. Elle émerge et se diffuse sur des infrastructures éditoriales permettant d'écrire directement en langage naturel, sans s'embarrasser par des considérations informatiques. Cette caractéristique l'a d'ailleurs beaucoup desservi dans le champ de la littérature numérique, où les premières générations, qui avaient établi une relation consubstantielle entre littérarité et compétence informatique, l'ont pendant des années grandement décriées. La littérature des plateformes est, à cet égard, un environnement privilégié pour l'auto-édition contemporaine.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-* Les CMS : Spip (infra réseau Remue : Tier Livre de F. Bon, Fenêtre OpenSpace d'A. Savelli, Fuir est une pulsion de G. Vissac), Wordpress, Blogger, Drupal, WattPad... 
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/spip1.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-
-===
-
-On peut relever deux grands types d'infrastructures où émerge cette littérature des plateformes : 
-
-* les CMS -- pour "content management system" ou, en français, système de gestion des contenus. Le plus ancien est blogger, le plus connu et répandu est Wordpress. Les plus "spécialisés", dans le champ littéraire, sont SPIP (infrastructure de Remue.net, du Tiers livre de François Bon, mais également d'une large partie de la communauté des écrivains "numériques" francophone ayant gravité autour de Remue) ainsi que le populaire WattPad, qui a surtout accueilli des communautés d'écrivains amateurs spécialisés dans la fiction.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-* les médias ou réseaux sociaux : YouTube, Facebook, Twitter-X, Instagram, et plus récemment Twitch, Tik-Tok.
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/bookTok.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-
-===
-
-* Les médias ou réseaux sociaux : YouTube, Facebook Twitter-X, Instagram, et plus récemment Twitch ou TikTok. Là où le CMS a vocation à gérer les contenus, les médias sociaux gèrent d'abord des communautés -- on leur doit l'invention du terme de "community manager". 
-
-Pour schématiser, le CMS relève de la gestion des contenus là où le réseau social implique la gestion des communautés. L'un comme l'autre repose sur une modélisation très forte des schémas de publication ou des relations sociales. Il s'agit d'outils particulièrement régulateurs, qui s'appuient sur des protocoles en vérité plutôt contraignants. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-* La littérature des plateformes : une écriture à contrainte
-
-![](img/patreon-savelli-nouvelles-de-tokyo.png)<!-- .element: style="width:500px" -->
-
-===
-
-À cet égard, on peut considérer la littérature des plateformes comme une littérature à contrainte, avec tout ce que comprend cette dernière, en termes de stimulation, mais également de limitation de l'écriture. Le 19 mai, sur son Patreon, Anne Savelli écrit :
-
->Nouvelles de Tokyo #2 (19 mai)
->"Racontez une histoire" me propose (m'ordonne ?) Patreon sous le titre de cet article. Justement, je me demande : à quel moment un voyage devient-il quelque chose à dire ? Avant le numérique, on envoyait une carte, une lettre, attendait le retour pour faire développer ses photos (je me souviens de la pellicule glissée dans une enveloppe à fenêtre, le nom de famille qu'il fallait donner pour récupérer ses tirages). La narration se déroulait intérieurement et, sans doute, se modifiait au fil du séjour. Par moments, on imaginait ce qu'on dirait, et à qui.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
->*Patreon est une plateforme de soutien à la création (musique, podcasts, arts visuels, auteurs...) offrant accès réservé à des ressources proposées directement depuis les « coulisses de la création » des artistes soutenus, contenus produits spécialement ou making-of des travaux principaux. C’est basé sur l’échange de services, avec messagerie prioritaire et débats. De nombreux auteurs ou musiciens rejoignent eux aussi cette plateforme, n’hésitez pas à explorer ce qu’elles & ils proposent. Des échanges qui autorisent* **<u>une confidentialité et une professionnalité qui font du bien pour continuer à nourrir un web vivant, et assurer notre indépendance d’auteurs ou d’artistes dans un contexte de moins en moins favorable aux partages de terrain, aux risques non-consensuels de l’édition et de la diffusion, plus une désaffection de plus en plus amplifiée des institutions (ce n’est pas un reproche, juste un constat)</u>** : *alors merci de votre soutien, merci d’être avec nous dans l’aventure.*
-
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
->François Bon, *Tiers Livre*, 4 avril 2021
+Grégory Chatonski, "Sans doute devons-nous abandonner l’idée que le commencement était habité par la fin", Billet de blogue, 5-2014
 
 <!-- .element: style="font-size:1.4rem; text-align:right" -->
 
 
 ===
 
-Pourtant, la littérature des plateformes a pu entretenir une utopie fortement répandue dans le champ de la littérature numérique depuis quelques années : l'utopie de la publication dont, à la suite des travaux de Lionel Ruffel notamment, chercheurs et créateurs ont retenu une signification "étymologique" -- "rendre public". La publication, débarrassée des éditeurs qui en avaient fait un commerce, un business, entraînant dans son sillage la formalisation de concepts littéraires : celui de l'auteur, entre conception juridique et figure symbolique ; mais également celui d'oeuvre (dont la stabilisation et la fermeture n'ont cessé de croître). Cette utopie de la publication peut être rapprochée du concept de désintermédiation, décrit par Gilles Bonnet comme une "stratégie d’évitement des filtres traditionnels mis en place par la chaîne du livre" ou, pour faire court : le court-circuitage du bon vieil éditeur bourgeois à l'ancienne.
+Grégory Chatonski synthétise parfaitement le concept : 
 
-Le tout dans un contexte où le modèle de gestion des maisons d'édition a pu faire l'objet de nombreuses récriminations de la part des auteurs, dans un contexte paradoxal de professionnalisation et de précarisation de l'écrivain -- j'en cite ici un extrait chez François Bon.
+>Le paradoxe des technologies et en particulier d’Internet, c’est que leur généralisation signe d’une certaine façon leur fin. C’est là une tension bien connue : quand une technologie est adoptée, elle disparaît dans son usage, sa singularité la distinguant d’autres modes d’existence semble se dissoudre d’elle-même.
 
->**[Patreon autorise] une confidentialité et une professionnalité qui font du bien pour continuer à nourrir un web vivant, et assurer notre indépendance d’auteurs ou d’artistes dans un contexte de moins en moins favorable aux partages de terrain, aux risques non-consensuels de l’édition et de la diffusion, plus une désaffection de plus en plus amplifiée des institutions (ce n’est pas un reproche, juste un constat)** 
-
-Ainsi, lorsque Ruffel, par exemple -- mais il est question ici de tous les chercheurs, parmi lesquels je me range, qui travaillent sur les notions de littérature exposée, néo-littérature, littérature hors le livre... Lorsqu'avec Ruffel, donc, nous soutenons que "le littéraire aujourd’hui apparaît en très grande partie comme une arène conflictuelle composée d’une sphère publique hégémonique reposant sur l’imprimé et d’une multitude d’espaces publics contre-hégémoniques relevant plutôt d’une « littérature-brouhaha » (exposée, performée, in situ, multi-support)", il sous-entend que l'écrivain bénéficie d'une plus grande liberté d'action et de création, à la fois sur le plan esthétique et politique, lorsqu'il évolue au sein de ces espaces contre-hégémoniques.
-
-En d'autres termes, la littérature des plateformes est travaillée par un idéal d'autogestion des écrivains ou créateurs de contenus, où s'entremêle à la fois des considérations esthétiques (liberté de création), mais également des revendications quant aux conditions de travail.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/DRE351OXkAAJHxU.jpg)
-
-===
-
-
-On sait pourtant bien que les choses ne sont pas si simples. L'utopie de désintermédiation a aussitôt laissé la place à une réintermédiation par les GAFAM, qui ont mis en place un véritable monopole de la publication numérique tous genres confondus -- entraînant d'ailleurs un brouillage des frontières traditionnelles entre les arts : l'écrivain numérique n'est plus vraiment celui qui produit de l'écrit, mais celui qui produit des contenus (textes, images, vidéo, données). 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/litterTube.png)
-
-===
-
-Que les spécialistes de la littérature numérique eux-mêmes aient baptisé des "genres" de la littérature numérique à partir des noms de plateformes voire de leur marque (AutoBlographie, écriture profilaire, LittéraTube, Twittérature) est significatif d'une nouvelle hégémonie propre à l'écosystème de publication numérique.
-
-La littérature des plateformes fait courir le risque d'une plateformisation de la littérature -- soit une production littéraire entièrement contrainte par les règles formelles et les CGU des espaces de publication, ainsi que par l'influence des lecteurs-usagers, qui nourissent autant qu'ils subissent les algorithmes fabriquant l'autorité en ligne. 
+>Internet n’est plus alors considéré comme une technologie, le moyen de certaines fins (artistiques par exemple), mais une part prépondérante de notre univers commun, un environnement pop tout comme les médias de masse constituèrent le populaire de la seconde partie du XXe.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/archet-censuree.png)
+### Le Web comme _media_
+* Des protocoles (http)...
+* ... qui incarnent un projet épistémologique et philosophique
+  * _peer to peer_
+  * auto-gouvernance
+  * utopie du collectif
 
 ===
 
-Simple exemple, j'ai travaillé cette conférence dans une bibliothèque publique, au WiFi de laquelle je me suis connectée -- et le site Web d'Anne Archet n'a jamais pu s'afficher : le système a cru que je consultais de la pornographie. Dans le même ordre d'idée, François Bon a quitté TikTok après avoir été censuré pour avoir lu un poème de Baudelaire. Il y quelques mois, Anne Savelli a perdu l'un de ses profils sur Instagram, qui avait été pourtant l'une des pierres angulaires de son projet Marylin. La plateforme l'a accusée de violer les règles de la plateforme.
+En ce qui me concerne, je tends à considérer le Web comme un media, et je l'étudie avec les outils propres aux études médiatiques. Ce parti pris peut être sujet à discussion : en raison de sa nature plurimédiatique (il mélange texte, son, image, vidéo), le web est souvent considéré comme un support ou un espace de convergence d'autres médias, mais pas comme un média lui-même -- ou alors, comme un méta-média comme il m'est arrivé de le lire (à la suite des travaux de Manovitch, par exemple). Par ailleurs, le web est souvent confondu avec l'infrastructure qui le supporte, à savoir l'Internet, ainsi qu'avec l'ensemble des applications qui ont pourtant détourné les services parfois initialement conçus pour le web vers des interfaces et des espaces dédiés. C'est ce que l'on a appelé l'applification du Web : concrètement, depuis votre téléphone, vous avez davantage tendance à ouvrir Instagram sur l'appli Instagram, que de passer par un navigateur Web. Si j'apporte ces précisions terminologiques, ce n'est pas pour faire une leçon magistrale sur l'histoire de l'Internet et du Web, mais pour expliciter ma conception médiatique du Web. 
 
-Que les conditions matérielles d'une forme ou d'un produit éditorial impactent des contenus littéraires n'est pas inédit dans l'histoire de la littérature : chaque époque est marquée par le développement de nouveaux moyens de production et de diffusion du fait littéraire. La matière manage le contenu depuis le volumen. Ce que la plateformisation de la littérature implique, c'est une déprise supplémentaire liée à l'écosystème médiatique dans son ensemble. La plateforme n'est pas la seule à contraindre l'écriture, dans la mesure où elle est elle-même prise dans une dynamique d'éditorialisation qui exerce une influence sur les contenus, leur positionnement dans l'écosystème du web, leur "autorité" en ligne. Il y a donc dans les écritures numériques une stratification des logiques managériales, intriquant des structures techniques (les plateformes), des structures algorithmiques, des communautés d'internautes dont les actions en lignes, traduites en données, jouent un rôle essentiel.
+Tel que l'a pensé et conçu Tim Berners-Lee, le Web est d'abord défini par des protocoles, en particulier le protocole http, qui au-delà du jargon technique, est en fait porteur d'une utopie du partage et de la relation, qui sera incarnée par une hypertextualité radicale. Le Web de TBL, ce n'est pas qu'un outil, c'est un projet épistémologique et philosophique où le partage des informations de _pair à pair_ est absolument essentiel. C'est pourquoi TBL avait conçu le Web comme un outil gratuit dont les protocoles et les langages sont définis et maintenus par la communauté (W3C). Les conséquences de cette utopie, en termes notamment de production, de circulation et de légitimation des informations, sont au fondement de notre culture numérique du tournant du XXIe siècle. Je dirais même qu'elles ont structuré ou restructuré notre culture populaire contemporaine -- culture dont le web a joué un rôle de diffuseur, mais également de modèle conceptuel. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
+### Emmerdification
 
-## Le modèle patreon : la plateforme anti-plateformisation ? 
+
+![](img/enshitification.jpeg)<!-- .element: style="width:40%;float:right;margin-right:-1em;" -->
+
+Applification
+Plateformisation
+Algorithmisation
+Monétisation des données
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rwvUjAv6pxg?si=yp2A1ashw56Zp0-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- .element: style="width:40%;float:left;font-size:3rem; text-align:right" -->
+
 
 ===
 
-Patreon n'est pas une plateforme extrêmement populaire, que ce soit auprès du grand public ou des chercheurs. La littérature sur le sujet est pauvre, et j'ai eu peine à trouver des études approfondies utiles à mon propos : qq rares mentions dans des articles en français, plusieurs études dans le monde anglo-saxon. Mais l'orientation est souvent axée sur l'influence du _business model_, et sur des profils patreon consacrés aux contenus musicaux. Les rares fois où il est question de profils issus de la sphère littéraire, c'est toujours de la BD. Rien sur les créateurs de littérature native numérique.
-
-
-Patreon a été créée en 2013. Initialement investie par le secteur musical, elle a séduit plusieurs écrivains, notamment des créateurs de BD, mais également certains auteurs-créateurs issus du web littéraire francophone. Elle appartient à la grande famille des plateformes de financement participatif, dont elle incarne un modèle assez mal connu : contrairement à Ulule, par exemple, qui va proposer des campagnes de financement sur projet avec des objectifs à atteindre en un temps limité (des paliers sont débloqués en échange de contreparties souvent gadget), Patreon opte pour un modèle de micro-contributions mensuelles (quelques euros) permettant aux porteurs de projets de s’assurer une rémunération régulière, sur le modèle du salaire. 
-
-Les créateurs peuvent choisir parmi trois formules d'adhésion :
-Lite, Pro et Premium. Patreon perçoit des revenus par le biais de ces plans : le plan lite 5%, tandis que Pro et Premium prélèvent respectivement huit et douze pour cent.
-
+L'applification du Web, et plus généralement sa plateformisation, ont introduit peu à peu une logique économique qui a dévoyé le projet initial de TBL. En déployant des services qui nous ont d'ailleurs enfermés dans des écosystèmes (par exemple, l'écosystème de Google), les GAFAM ont trouvé un intarissable filon à monétiser : nos données, en particulier nos données personnelles, qui ont été privatisées par les grandes entreprises. Derrière nos données, c'est notamment notre attention, mais également notre manque de culture technique ou de littératie numérique, qui fait la fortune de ces groupes.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/patreon-bon-abonnements.png)
+## _Dead Internet theory_ : la fin des utopies ?
+
+![articleDead](img/)
 
 ===
 
-Concrètement, le créateur peut adapter les formules comme il le souhaite et, surtout, en personnaliser le nom. Chez François Bon, les trois formules sont déclinées ainsi :
-
-* un abonnement 3.5$ par mois : un accès à la communauté Tier Livre, avec une newsletter, des réunions zoom hebdomadaires et un canal de communication direct avec François
-* un abonnement à 22$ par mois, pour un accès aux "Ateliers d'écriture", qui est une sorte de coaching pour l'écriture littéraire
-* à noter que la formule médiane propose la même chose, mais à tarif réduit pour les étudiants ou demandeurs d'emploi.
+Dans ce contexte post-internet, le Web est traversé par un imaginaire de la fin, que vous avez peut-être vu passer sous l'expression de la "Dead Internet Theory". Cette théorie de l'internet mort est déjà en vogue depuis pas mal d'années, on situe sa naissance vers 2016, et elle ne fait pas l'objet d'un concensus (pour certain.es elle relèverait même d'une théorie du complot). Elle s'appuie sur un constat que l'on a toutes et tous eu l'occasion de réaliser : des éléments techniques, tels que l'algorithmisation du Web, la croissance des réseaux sociaux, et tout récemment le développement exponentiel des IAG grand public, ont eu tendance à uniformiser l'espace numérique, provoquant une nouvelle concentration éditoriale sous l'emprise des GAFAM. Cette théorie a ses concepts dérivés : le Web Zombie, le Slop, l'emmerdification (Doctorrow), le technofascisme, le vectofascisme. Comme toutes les théories, elle a aussi ses contre-théories ou ses théories et pratiques alternatives : Alive Web, Indie Web, le fédiverse, etc. 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/patreon-savelli-membership.png)
+De quoi ce discours de la fin marque-t-il la fin, </br> ou même le début ?
 
 ===
 
-Chez Anne Savelli, les formules, baptisées Oloés, du nom d'un concept littéraire forgé par Savelli elle-même (pour désigner les lieux où l'on lit et où l'on écrit), se déclinent ainsi :  
+Depuis quelques mois, je m'intéresse beaucoup à ces discours de la fin ou du renouveau du Web, discours parfois très différents et contradictoires, qui donnent lieu à une série de réactions de la part des créateurs de contenus, et notamment des journalistes et des écrivains, sous la forme de production _alternatives_, mais également sous la forme de débats à la fois théoriques, technocritiques, politiques voire esthétiques assez passionnants. Comme si la "fin" annoncée du Web marquait le renouveau d'une pensée et d'une pratique des écritures numériques. Mais alors de quoi ce discours de la fin marque-t-il la fin, ou même le début ? Pour résumer à gros traits mon intuition, je dirais que ce discours est surtout symptomatique de la fin d'une utopie du collectif et de l'auto-gouvernance propre à la création de l'Internet, puis du Web. Cette fin de l'utopie du collectif entraîne la crise de certains concepts qui lui étaient associés, en particulier, la culture de la participation, ou l'"impératif participatif" comme l'a proposé Marta Severo. L'impératif participatif ne renvoie pas à une injonction à participer, mais à l'idée selon laquelle la légitimation d'un contenu numérique passerait nécessairement par le biais d'une ouverture à la participation, à la réappropriation, bref à l'éditorialisation. 
 
-* formule Oloé 1 : "au fil de la semaine" pour $5.50 CA, accès à un forum d'échange, à des textes et enregistrements inédits  
-* formule Oloé 2 : faites entrer l'écriture pour $8 CA, avec un accès au podcast exclusif "Faites entrer l'écriture" (d'une durée moyenne de 25 minutes) trois mois avant sa parution en ligne. C'est un podcast où Savelli parle beaucoup des coulisses de son travail d'écrivain. C'est l'abonnement que j'ai choisi.  
-* formule Oloé 3 : encore plus de contenus inédits, mais également une newsletter personnalisée.  
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/Archet_patreon.png)
-
-===
-
-Chez Anne Archet, Anne Archet oblige, on a le choix entre des formules "Licorne -- caramel, chocolat ou or" qui, en plus d'une newletter mensuelle, offrent chacune des livres numériques. J'ai opté pour l'abonnement licorne caramel.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Chers patrons, chères matronnes...
-
-![](img/becomeApatron.jpeg)
-
-===
-
-Le crowdfunding s'est largement répandu ces dernières années dans le secteur de la création, où il défend le principe d'une relation sur le long terme entre le créateur et son public selon une logique de mécénat qui ne fixe aucune durée de collecte ni d'objectifs précis à atteindre, comme la publication d'un livre ou d'un CD, par exemple. Comme on l'a rapidement évoqué, le nom même de la plateforme s'inscrit dans ce paradigme du mécénat, puisque *patreon* est une déformation de *patron*, en anglais, qui signifie donateur, mécène. En français, le terme peut porter à confusion, confusion avec laquelle Anne Archet s'amuse beaucoup, puisque chacun de ses posts sur la plateforme commence par une adresse à ses mécènes : "chers patrons, chères matronnes".
+Il y aurait plein d'angles à travailler à partir de là, mais dans le cadre de la thématique de ce colloque, le fil que je souhaiterais tirer est celui de ce discours et contre-discours de l'indépendance des créateurs de contenus et journalistes (je sais que je mélange deux termes, mais je vais vous expliquer pourquoi dans un instant). Une indépendance qui se pense à plusieurs plans : liberté éditoriale, mais également formelle. Dans mes recherches, encore très préliminaires, j'ai identifié 3 grandes catégories d'alternatives travaillées par les producteurs de contenus : 
+- le retour à l'épistolarité numérique : la newletter
+- le retour à des formes de publication du premier Web (IndieWeb, Web statique)
+- des plateformes "anti-plateformisation" : substack, ou encore Patreon, qui est la plateforme dont je vais parler aujourd'hui. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Le mécénat se définit comme "le soutien matériel apporté, sans contrepartie directe de la part du bénéficiaire, à une oeuvre ou à une personne pour l'exercice d'activités présentant un intérêt général."
+## Patreon, le réseau anti réseau social
 
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/cletoris.jpg)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
 
 
 ===
 
-Pour être toute à fait franche, je ne suis pas certaine qu'un juriste serait tout à fait d'accord avec l'usage du terme "mécénat", qui renvoie d'abord à un statut juridique assez précis. Sur le site du ministère de la culture, on peut notamment lire que :
+Créée en 2013 aux États-Unis, Patreon a d’abord été conçue pour soutenir les musiciens professionnels, mais elle a rapidement séduit de nombreuses communautés d’artistes actifs en ligne, mais également des journalistes ou des documentaristes qui y ont déployé un projet journalistique, voire un média, un journal à part entière. 
 
->Le mécénat se définit comme "le soutien matériel apporté, sans contrepartie directe de la part du bénéficiaire, à une oeuvre ou à une personne pour l'exercice d'activités présentant un intérêt général."
+Comme le suggère son nom — Patreon est une déformation du terme anglais patron, qui signifie donateur, mécène —, elle appartient à la grande famille des plateformes de financement participatif, dont elle incarne un modèle assez mal connu : contrairement aux plateformes de crowdfunding traditionnelles où l’usager est invité à financer des projets ponctuels en échange de contreparties matérielles (Ulule, Kickstarter), Patreon opte pour un modèle de microcontributions mensuelles permettant aux artistes de s’assurer une rémunération régulière, sur le modèle du salaire. Elle défend ainsi le principe d’une relation à long terme entre le créateur et son public selon une logique de mécénat qui ne fixe aucune durée de collecte ni d’objectifs de production finaux comme la publication d’un livre, par exemple. Les contreparties, sur Patreon, se caractérisent par un accès privilégié à des contenus exclusifs, ou encore à un canal de communication direct avec le producteur de contenus en personne. Les formules d’abonnement sont déterminées en fonction du niveau d'accès aux contenus, mais également au producteur de contenus lui-même. 
 
-Tout repose sans doute sur l'interprétation du terme "contrepartie directe". Sur une plateforme de financement participatif comme Ulule, notre contribution financière nous donne droit à une contrepartie directe : le livre, le jeu de société ou les éponges bio que nous avons commandées, avec, pour nous inciter à donner davantage, des *goodies* de type autocollant ou totebag. Une fois, en soutenant un festival de littérature érotique féministe, j'ai même obtenu un porte-clé tricoté en forme de clitoris.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->Vous me faites gagner en autonomie et en sérénité (j'arrête de courir partout ET de monter des dossiers sans cesse !) 
-
->Vous me rendez maîtresse de mon destin (carrément !)
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/patreon_savelli-oloe2.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-===
-
-Notons que les rétributions sont beaucoup plus sérieuses et/ou symboliques sur Patréon. Il ne s'agit que de contenus artistiques, ou bien de "nouvelles" ou newsletters de l'artiste, qui s'apparentent bien souvent à des comptes-rendus d'activités. L'écrivain fournit la preuve qu'il ne procrastine pas, loin de là. L'activité littéraire y est ainsi présentée plus que jamais comme un travail, comprenant des tâches bien définies. En retour, le lecteur, le "patron", assure donc un revenu mensuel. 
-
-Chacun de nos trois écrivains insiste ainsi, dans la présentation de leurs formules d'adhésion, sur l'autonomie que le système Patreon permet d'acquérir :
-
->Vous me faites gagner en autonomie et en sérénité (j'arrête de courir partout ET de monter des dossiers sans cesse !)
-
-écrit Anne Savelli dans la présentation de l'abonnement Oloé 2 que j'ai choisi. Dans la description du 3e pallier à 11,50 $ / mois : 
-
->Vous me rendez maîtresse de mon destin (carrément !)
-
-Le discours est similaire chez les autres. Ainsi, chez Anne Archet, notre contribution est supposée nous offrir une rétribution symbolique, mais non moins importante : "La satisfaction d'appuyer Anne".
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### Le paradigme du "patron" [Mécène] 
-#### Une contre-culture participative ? 
-
-|Artiste|Nombre total de membres|Membres payants|Publications|
-|:--------------- |:---------------:|:---------------:| -----:|
-|François Bon|494|271|584|
-|Anne Savelli|81|32|*nr*|
-|Anne Archet|105|63|*nr*|
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/becomeApatron.jpeg)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-===
-
-Au niveau managérial, la logique de Patreon avec sa communauté fermée et limitée parait donc relativement originale, puisqu'elle va impliquer ce que je qualifierai de contre-culture participative. Je m'explique : dans le contexte de l'économie de l'attention où la participation des publics apparaît comme un levier essentiel de captation durable des publics, les industries culturelles et les créateurs redoublent d'efforts pour générer de l'interaction avec les internautes, via les plateformes de diffusion des contenus. C'est ce que Marta Severo a notamment qualifié d'impératif participatif : permettre la participation n'est plus seulement un moyen de gagner de l'audience, c'est aussi un moyen de gagner en légitimité. Le paradigme participatif s'accompagne par ailleurs d'un idéal de renversement de l'autorité, désormais déclinée selon un modèle horizontal et non plus vertical. Chez le sociologue Dominique Cardon, c'est bien certains modèles de plateforme -- notamment le CMS wiki de Wikipédia -- qui amène les usagers à pratiquer l'autogouvernance et à réguler l'écriture encyclopédique.
-
-Pourtant, l'impératif participatif a ses revers : la participation, du fait de la plateformisation croissante, est de plus en plus régulée. Ainsi, pour Adam Fish, la culture participative initiée dans le cadre d'un paradigme démocratique et d'une horizontalisation des échanges, serait désormais assimilée par une logique du capital (sa thèse est détaillée dans l'ouvrage *Technolibéralism. The End of participatory culture*).
+Comparée aux grandes plateformes sociales et culturelles, Patreon apparaît presque comme un média « de niche », qui mobilise un public averti : elle comptait 8 millions d’usagers en 2024 à travers le monde, là où Facebook en dénombre presque 3 milliards, TikTok 2 milliards, et où Wattpad, plateforme entièrement dédiée à l’écriture, enregistre 90 millions de connexions chaque mois. « Confidentielle » à l’échelle des communautés numériques, Patreon n’a d’ailleurs pas encore généré une importante littérature scientifique, et les quelques travaux qui lui sont consacrés s’intéressent essentiellement au business model de la plateforme.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->Nota 2 : c’est aussi le soutien que représente à mes activités cet espace #Patreon qui m’a permis de désactiver le plus totalement possible les publicités parasites sur ma chaîne YouTube, désormais le poumon respirant du site. Pour cela aussi, merci. 
+![](img/cerno-discord.png)
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+Source : Canal discord de Cerno
 
->François Bon
 
-<!-- .element: style="font-size:1.7rem; text-align:right" -->
+<!--.element class="source"-->
 
 ===
 
-Dans un tel contexte, Patreon n'incarnerait-il pas la fin de la culture de la participation, en réintégrant l'idée d'un espace fermé, un salon littéraire sélect, renouant ainsi avec la notion habermasienne d'espace public Bourgeois ? J'ai l'intuition que c'est un peu plus compliqué que cela. **Patreon est présenté par les créateurs eux-mêmes comme une solution permettant de gagner en autonomie, tant sur un plan qualitatif (la liberté de création faisant partie du contrat passé avec le "patron") que quantitatif (puisque la rétribution n'est pas liée à la popularité ou au calcul de l'audience des contenus).** Cette autonomie ressurgit d'ailleurs positivement sur les autres plateformes, dont le modèle économique repose sur le tiers acteur : 
-
->Nota 2 : c’est aussi le soutien que représente à mes activités cet espace #Patreon qui m’a permis de désactiver le plus totalement possible les publicités parasites sur ma chaîne YouTube, désormais le poumon respirant du site. Pour cela aussi, merci. (F. Bon)
-
-Là où le recrutement et l’activation de la participation des internautes est une préoccupation majeure des gestionnaires de plateformes créatives et des organisateurs d’opérations participatives, la plateforme Patreon aurait donc tendance à diminuer les effets de surproduction et de spectacularisation. Semble ainsi se jouer une sociabilité d'un genre un peu nouveau -- ou pas tant que ça : F. Bon parle d'un retour aux "premiers temps du web".
+Patreon mise en effet sur une sociabilité plus authentique que sur les autres réseaux, en garantissant notamment un accès « direct » au créateur. Plusieurs espaces et protocoles d’échanges sont déployés sur la plateforme : outre les traditionnels espaces de commentaires sous les publications, Patreon offre la possibilité de rajouter une brique logicielle de chat (discord ou slack) qui favorise des discussions au sein de la communauté.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-## Relation parasociale et utopie du collectif
+>Create for your audience, not algorithms.
+>Creators deserve community, not chaos. #tiktokban
 
 ===
 
-Comment les relations entre l'écrivain et le lecteur, le patron-mécènne, sont-elles organisées et gérées ? 
+Non sans ironie, c’est sur le réseau social X que les concepteurs de la plateforme ont publicisé cette sociabilité fondée à la fois sur l’expertise de l’audience et sur une approche anti-algorithmique, rejouant ainsi l’opposition entre une les paradigmes qualitatifs et quantitatifs (incarnés par Youtube, ou encore, dans le second tweet cité, TikTok) :
 
-Rappel : La littérature des plateformes accompagne les mutations profondes de la présence sociale de l'écrivain dans l'espace public. La présence en ligne des auteurs, généralement sur des réseaux sociaux caractérisés par un flux conversationnel continu, implique une prise en charge l'identité auctoriale, qui tend à se confondre avec l'identité numérique. Ces écritures profilaires, qui échappent de plus en plus aux éditeurs, jusque-là seuls responsables de la médiatisation de l'écrivain, représentent un travail quotidien, parfois risqué, tant la gestion des communautés numérique implique un savoir-faire à part entière.
+>Create for your audience, not algorithms.
+>Creators deserve community, not chaos. #tiktokban
 
-Comme les CMS, les réseaux sociaux ont également nourri un discours de la désintermédiation : sur Twitter, FaceBook, le lecteur ou le fan serait en mesure d'échanger "directement" avec son artiste favori. La communauté Des travaux ont nuancé cette relation directe, en requalifiant de "parasociale" la relation qui unit les créateurs de contenus et leurs *follower*. Ce concept de relation parasociale, d'abord issu de l'analyse psychologique des téléspectateurs dans les années 1960, décrit le phénomène par lequel une personne développe un sentiment d’intimité avec une figure médiatique ou fictive qui n’a pourtant pas vraiment conscience de son existence. Le _community management_ repose sur l'exploitation de cette relation parasociale, en jouant sur le registre de l'intime : tout est fait pour que le public développe un sentiment de proximité avec l'émetteur du message. Les influenceurs, mais également les créateurs de contenus en tout genre, gagnent leur vie en monétisant la relation parasociale. 
-
-Sur Patreon, l'accent est mis sur la promesse d'une sociabilité plus authentique, garantissant un accès direct au créateur. François Bon insiste : "le Patreon autorise une relation directe et un autre espace d'expérimentation privilégiée." L'abonnement garantit un "accès à la messagerie privée avec priorité de mon côté." 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/patreon-archet-quattendez-vous.png)<!-- .element: style="width:600px" -->
-
-===
-
-Soyons clair, il me semble qu'une plateforme, parce qu'elle est plateforme est que c'est dans sa nature de modéliser des relations sociales pour en automatiser certains aspects, impliquera toujours à des degrés plus ou moins divers des relations parasociales, fondées sur une intimité plus ou moins à sens unique. Cela étant dit, il est intéressant je crois de confronter ce concept communicationnel de relation parasociale à notre concept littéraire de pacte de lecture, pour voir ce qu'il en ressort dans le cadre de notre réflexion sur le management. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/Savelli-discussion-patreon.png)
-
-===
-
-
-Si l'on s'en tient à l'interface de Patreon, on observe plusieurs espaces et protocoles dédiés aux échanges avec les créateurs. Outre les traditionnels espaces de commentaires sous les posts, Patreon offre la possibilité de rajouter une brique de chat (discord / slack). Le succès n'est pas toujours garanti, comme on peut le voir ici avec une capture du patréon d'Anne Savelli, qui s'est essayée à lancer une discussion dans le chat avec sa communauté, sans rencontrer forcément le succès attendu. Le dispositif fonctionne beaucoup mieux chez François Bon, sans doute parce que les chats interviennent comme support et complément d'événements, généralement des live-streaming, comme sur twitch, finalement. C'est là une des caractéristiques de Patréon : la publication s'établit sur un rythme régulier et non au fil de l'eau dans un flux continu. Il s'agit de véritable rendez-vous entre le créateur et sa communauté.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/notification_patreon.jpg)<!-- .element: style="width:320px" -->
-
-===
-
-Ainsi, à titre de lectrice, je suis particulièrement sollicitée par mes auteurs les dimanches, jour de publication des newsletters et de certains contenus exclusifs, notamment les podcasts d'Anne Savelli. Difficile d'y échapper : je reçois un email ainsi que des notifications directement sur mon téléphone, juste après avoir donné le biberon de lait au chocolat à mon fils. De quoi me laisser penser qu'il ne vaut mieux pas multiplier les abonnements, comme j'ai pu le pratiquer par ailleurs sur d'autres réseaux sociaux. Patreon présente un fort degré d'exigence envers ses lecteurs. Mais cette exigence est partagée. Sur Patréon, on ne tape pas la discute, on bosse, on progresse ensemble.
-
-Patreon est une plateforme où s'expose comme rarement la professionnalisation du métier d'écrivain, dont il s'agit de montrer selon François Bon les « coulisses de la création », coulisses à la fois poétiques & esthétiques mais également matérielles et administratives. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-![](img/NouvellesDuDimange.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-![](img/NouvellesAnnesArchet.png)
-
-<!-- .element: style="width:60%;float:left;margin-left:-3em;" -->
-
-===
-
-Selon un rythme régulier, généralement hebdomadaire, les écrivains publient ainsi des contenus destinés à tenir au courant leurs "Patrons" de l'avancement de ses projets. Ces publications relèvent du genre diaristique, entremêlant des données factuelles sur l'organisation du travail d'écriture, mais également des confessions personnelles. 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
->De retour de Clermont, le lundi, je suis bien décidée à entamer le programme de travail lié à *Bruits*, programme qui, je le signale, n’a pourtant rien de faramineux, mais voilà que toute énergie se fait la malle, comme au temps du *burn out*. Mauvais sommeil, corps vampirisé, cerveau en jachère, etc. Je résiste, fais sonner le réveil chaque jour à la même heure, me lève et tente de faire ce que j’ai prévu, de suivre ma ligne. Un jour, deux jours, trois jours.
-
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/NouvellesDuDimanche.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
-
-===
-
-Chez Anne Savelli, par exemple, qui organise rigoureusement son travail, il est régulièrement fait part des difficultés psychiques et physiques de l'écrivaine, dont l'activité apparaît soumise aux mêmes risques de maladie professionnelle que n'importe quel autre métier :
-
->De retour de Clermont, le lundi, je suis bien décidée à entamer le programme de travail lié à *Bruits*, programme qui, je le signale, n’a pourtant rien de faramineux, mais voilà que toute énergie se fait la malle, comme au temps du *burn out*. Mauvais sommeil, corps vampirisé, cerveau en jachère, etc. Je résiste, fais sonner le réveil chaque jour à la même heure, me lève et tente de faire ce que j’ai prévu, de suivre ma ligne. Un jour, deux jours, trois jours.
+Ces choix détonnent au regard des enjeux de participation des publics qui, dans notre économie de l’attention contemporaine, constituent le levier essentiel de la captation durable de l’audience. Tout l’intérêt des plateformes réside justement dans leur capacité à structurer les interactions avec le public, grâce aux fonctionnalités conversationnelles de l’interface, combinées à une gestion des contenus et des communautés optimisées par les algorithmes de recommandation et de popularité en analysant les fameuses données des utilisateurs. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
->J’insiste, je me bats, je m’en fous, il faudra bien que ça plie : voilà le mantra. Je continue à mettre le réveil toujours à la même heure, à me lever comme si de rien n’était. Je tente de suivre mon programme "par blocs" (consacrer un temps précis, toujours le même, à une seule activité) à la lettre, quitte à en rabattre sur le rendement, mais le corps et le psychisme insistent, eux aussi, et m’écrasent de plus en plus. 
+Le modèle de Jack Conte
 
-<!-- .element: style="font-size:1.5rem; width:50%;float:left;margin-left:-3em;" -->
-
-
-![](img/NouvellesDuDimanche.png)
-
-<!-- .element: style="width:60%;float:right;margin-right:-3em;" -->
+* Moins de traitements algorithmiques
+* Valorisation du "true fans"/"true follow"
+* Retour à des micro-communautés
+* Philosophie du Web 1.0
 
 ===
 
-Ainsi des maux sans doute assez anciens -- syndrome de la page blanche -- se trouvent-ils traduits, et peut-être normalisés, sous le terme de *burn out*, reconnu comme une maladie professionnelle.
+En résumé, la plateformisation croissante provoque une régulation de la participation, dévoyée à des fins commerciales — c’était d’ailleurs là l’objectif annoncé dès 2005 par Tim O’Reilly, pionnier de l’édition numérique et grand promoteur du Web 2.0. Bien qu’émanant des grandes utopies du web qui prônaient l’horizontalisation des échanges et l’autogouvernance, la culture participative tendrait ainsi de plus en plus vers une logique du capital. Jack Conte, le co-fondateur de Patreon, assure ainsi la promotion de sa plateforme en dénonçant les dérives du management algorithmique propres aux grands médias et réseaux sociaux. Il oppose à l’économie du clic les concepts de « true follow » ou encore de « true fans ». Son discours, dont on peut entendre de larges extraits dans des conférences de type Ted Talk rediffusés sur Youtube, s’inscrit dans une réflexion historique sur la participation et les sociabilités numériques depuis l’invention du web. Il défend notamment le retour à des microcommunautés (des communautés sélectionnées sur l’expertise et l’engagement, notamment financier, qu’elles sont prêtes à prendre pour un artiste) en s’appuyant sur une nostalgie de plus en plus grande à l’égard du web 1.0.
 
->J’insiste, je me bats, je m’en fous, il faudra bien que ça plie : voilà le mantra. Je continue à mettre le réveil toujours à la même heure, à me lever comme si de rien n’était. Je tente de suivre mon programme "par blocs" (consacrer un temps précis, toujours le même, à une seule activité) à la lettre, quitte à en rabattre sur le rendement, mais le corps et le psychisme insistent, eux aussi, et m’écrasent de plus en plus. 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Corpus et méthodologie : bricolage et braconnage
+* Cerno
+* Tal Madesta
+* Marine Périn
+* Korben
+
+===
+
+J'ai voulu prendre la mesure de ce discours auprès d'un petit corpus de 4 auteurs, qui me permettent de représenter une diversité de genres documentaires, et qui embrassent des réalités très différentes du journalisme et du statut journalistique : 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/cerno-17-05-2026.png)
+
+===
+
+CERNO (ou Julien Cernobori) est en quelque sorte la star de ce corpus. Il s'agit d'un journaliste expérimenté, qui a travaillé pour Radio France et Binge Audio. Sur Patreon, CERNO publie plusieurs séries de podcast depuis 2020, mais la série pour laquelle on le connaît le plus est "L'anti-enquête", qui a fait été beaucoup médiatisée, et qui revient sur l'Affaire du tueur de vieilles dames Thierry Paulin (condamné pour 19 féminicides) et de son complice Jean-Thierry Mathurin. Le mode d'expression de CERNO est principalement le podcast, même si certains posts sont accompagnés de courts textes rédigés. À première vue, on pourrait prendre le travail de CERNO pour du "true crime" ou de l'enquête policière, mais comme l'a très bien expliqué Fanny Dujardin qui a rédigé une thèse sur les récits sonores : "le projet s’inscrit ainsi dans une visée éthique réparatrice, dirigée vers des disparues anonymes auxquelles il s’agit de redonner une épaisseur identitaire." En d'autres termes, CERNO s'intéresse davantage aux portraits des victimes qu'à celui des tueurs, et on verra que cela a toute son importance. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/tal-madesta-28-04-26.png)
+
+===
+
+Tal Madesta est un journaliste indépendant et essayiste, d'une génération plus jeune (né en 1993). Il a collaboré avec *La Déferlante*, et il a par ailleurs publié plusieurs essais sur le féminisme et l'expérience transgenre. Sur son profil Patreon, ouvert en 2022, Tal Madesta publie plutôt des contenus textuels, avec ponctuellement du podcast ou de la vidéo. On y retrouve des textes personnels, de la poésie, des compte-rendus d'ouvrages, des analyses de l'actualité... autour d'une thématique récurrente : la transidentité et le féminisme.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+===
+
+Marine Périn est vidéaste, réalisatrice et journaliste francophone, spécialisée dans la presse féministe. Elle s'est faite connaître grâce aux RSN et en particulier à sa chaîne YouTube sous le nom de Marinette. En 2020, elle a remporté le prix EllesFontYouTube pour son documentaire *Traquées*. Depuis quelques années, Marine Périn a progressivement déserté les réseaux pour se consacrer à des projets portés par des médias plus institutionnels. Elle ne publie plus que sur son Patréon depuis à peu près 2 ans. Son espace Patreon lui sert principalement à parler de journalisme, c'est-à-dire de la fabrique de l'information. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/korben-2026.png)
+
+===
+
+Korben (pseudo de Manuel Dorne) n'est pas journaliste de formation, mais il s'est fait un nom dans le champ des médias spécialisés en informatique, à l'époque où on parlait encore de "blogueurs". Si je l'ai inclu dans mon corpus, c'est parce que je trouve son discours sur la technique en écho avec la longue introduction consacrée à la culture web, selon un angle particulièrement technique. Sur son Patreon, on va donc trouver des tutos pour faire fonctionner une IAG en local.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-![](img/lecture_collective_manuscrits.png)<!-- .element: style="width:570px" -->
+#### Difficultés et limites méthodologiques
+* Approche circonscrite à une sémiotique des plateformes
+* Cherchabilité limitée
+* Périmètre discutable
 
 ===
 
-François Bon est sans doute celui de nos trois écrivains qui déploie le plus loin l'exposition de sa "fabrique" du fait littéraire. Son Patreon est en effet devenu l'interface privilégie de son école de création à distance : ce qu'il range dans la catégorie des Ateliers. Je ne développerai pas davantage ce point qui me semblerait mériter une étude à part entière, plus approfondie, avec l'abonnement qui va avec (et que je n'ai pas), mais j'ai l'impression que François Bon met en place ce qui pourrait être qualifié de *coaching d'écriture*, qui relève sans doute bien plus de ce qui peut se passer dans une salle de classe que sur un réseau social. [CITER EXTRAIT]
-
-
->Mise en lecture ce dimanche 19 mai : note d'intention et PDF à télécharger de deux textes de Chantal Tran : L'attente et Le retour, et d'un nouveau texte d'Emmanuelle Cordoliani, Alice A.
-
->Et si on musclait la formule ?
-
->Je souhaiterais, à mesure que ces rendez-vous se font plus riches et vont plus loin dans l'accueil et l'échange, qu'on réduise l'écart entre les manuscrits ou projets, et leur publication, en accueillant, dans ces mêmes séances de discussion, aussi bien (qui veut) des textes parés à l'envoi édition, ou bien, et c'est ce qu'on tentera le 27, les livres juste publiés de nos abonné·e·s.
-
->On a pris l'habitude de se rythmer, ce serait, de 18h15 à 19h45, les premières 30 minutes pour les 2 livres de Perle Vallens (Peggy M.) et Mireille Piris (avec Julotte Roche, Deux qui lisaient la mer), présentés par elles-mêmes. Puis, comme nous le faisions dans nos heures chrono, 30 minutes pour chacun des deux projets.
-
-François Bon apparaît ainsi comme le chef d'orchestre ou l'animateur d'un petit groupe d'amateurs éclairés, et même davantage : d'autres créateurs en devenir.
-
-En d'autres termes, **là où la plupart des plateformes créatives et de financement participatif jouent sur la monétisation de la relation parasociale qui se crée entre le créateur et sa communauté, à partir d'une mise en scène de l'intime, Patréon joue sur la carte de la professionnalisation, et valorise un discours du travail. Il me semble à cet égard que la plateforme est sans doute la plus à même de renouer avec un certain esprit du salon littéraire -- métaphore souvent avancée, de manière trop poussive à mon sens, pour qualifier les forums en ligne puis les différentes plateformes d'écriture et enfin les réseaux sociaux.**
+Ce corpus est arbitraire, j'aurais aimé réaliser une approche plus systématique. Le temps m'a manqué, mais pas que. Travailler sur Patreon n'est pas si simple, on rencontre de nombreuses difficultés méthodologiques : 
+- d'abord, on reste sur un service plateformisé, avec un accès aux données très limité. Ce que je montre là relève donc uniquement de la sémiotique des plateformes, ce qui m'oblige à ne réaliser qu'une analyse de surface : pas d'accès au back office, pas d'accès non plus au paramétrage, pas d'API me permettant d'extraire des métadonnées. Ce que je montre est d'ailleurs pour partie du contenu privé, accessible via mon abonnement.
+- c'est d'ailleurs le second problème : on est sur des contenus payants (à titre perso, je n'ai pas payé une quantité d'abonnements, donc certains sont mieux explorés que d'autres, pour lesquels je suis restée à la couche "publique")
+- de manière générale, j'ai éprouvé de vraies difficultés à établir mon périmètre et à identifier des cas d'étude. Le moteur de recherche de Patreon est assez inefficace, et il n'y a pas de section "Journalisme" dans lequel seraient indexés tous les profils dédiés. Pour être transparente, j'ai surtout fonctionné par recommandation interne à des profils Patreon que je suivais déjà, ou alors de bouche à oreille. 
+- ainsi, et c'est la dernière difficulté, je me suis souvent heurtée à des questions de pertinence et de nature des contenus : qu'est-ce que relève de l'écriture journalistique ou pas ? Qui est "officiellement" journaliste, ou pas ? J'ai fini par embrasser ma contrainte, puisqu'elle me semble significative de ces objets et d'une redistribution de l'autorité et des compétences propre à la culture numérique. 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-#### Todo-list
+### Le discours de l'indépendance
+* Indépendance médiatique et éditoriale
+* Indépendance formelle
+* Indépendance financière
 
-- [ ] Explorer le backoffice de la plateforme (_critical code studies_ / _platform studies_)
+===
 
-- [ ] Accéder aux données (gestion quantitative du lecteur, de l'écriture)
+Quand on passe un peu de temps sur les Patreon de ces quatre auteurs, la question de l'indépendance journalistique apparaît comme un élément essentiel du discours auctorial. J'ai identifié trois grandes thématiques distinctes qui sont directement abordées et étroitement reliés : l'indépendance médiatique et éditoriale d'une part, l'indépendance formelle/esthétique d'autre part, et enfin l'indépendance financière. Je vais rapidement les passer en revue, puis je conclurai.
 
-- [ ] Réaliser un atelier d'écriture avec F. Bon
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## L'indépendance médiatique et éditoriale : un discours technocritique qui tend à se politiser
+
+===
+
+Dans l'immense majorité des cas que j'ai rencontrés, les auteurs qui publient sur Patreon utilisent l'espace de description profilaire pour justifier voire pour revendiquer leur usage de la plateforme -- et c'est le cas pour ce petit corpus. Le choix éditorial de la plateforme Patrein est étroitement articulé à des préocuppations d'indépendance, qui passe par des positions technocritiques plus ou moins affirmées et politisées. Cette justification, on la retrouve sur la plupart des réseaux du fédiverse, sur Mastodon par exemple.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>C'est simple : votre soutien = ma liberté éditoriale
+>Rejoignez les 400+ personnes qui croient en un web indépendant !
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>Korben
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
 
 
+>Ce système permet aux créateurs de vivre de leur travail et de soutenir un journalisme indépendant et différent.
 
-<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Cerno
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
 
 
 ===
 
-Pas de conclu, mais une todo-list pour approfondir les recherches...
+Ainsi chez Korben : 
+>C'est simple : votre soutien = ma liberté éditoriale
+>Rejoignez les 400+ personnes qui croient en un web indépendant !
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Chez CERNO : 
+>Ce système permet aux créateurs de vivre de leur travail et de soutenir un journalisme indépendant et différent.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>C’est très frustrant de dépendre d’une certaine régularité et des algorithmes pour créer. 
 
 
-  Merci !
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>Marine Périn
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+>Cette plateforme nous permet d'échapper à la censure constante des réseaux sociaux classiques et de pouvoir échanger dans un cadre beaucoup plus intimiste et libre. Le soutien que vous m'apporterez chaque mois me permettra de vous proposer un contenu exclusif de qualité. Evidemment, vous avez aussi à y gagner : ici, on s'empare des questions de société de manière collaborative !
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Tal Madesta
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+===
+
+Chez certains auteurs, cette indépendance médiatique et éditoriale se supperpose à un discours technocritique plus articulé, avec des arguments anti-plateforme ou anti-algorithme, comme chez Marine Périn : 
+
+>C’est très frustrant de dépendre d’une certaine régularité et des algorithmes pour créer. 
+
+Ou encore Tal Madesta :
+>Cette plateforme nous permet d'échapper à la censure constante des réseaux sociaux classiques et de pouvoir échanger dans un cadre beaucoup plus intimiste et libre. Le soutien que vous m'apporterez chaque mois me permettra de vous proposer un contenu exclusif de qualité. Evidemment, vous avez aussi à y gagner : ici, on s'empare des questions de société de manière collaborative !
+
+C'est chez Tal Madesta sans doute que le discours d'adhésion à Patreon est le plus politisé, avec l'idée d'échapper à la censure. Tal Madesta a par ailleurs produit des posts qui attaquent les autres réseaux, en particulier Twitter/X. 
+ 
+Ce qui est intéressant, c'est que chacun des profils que j'ai sélectionnés explicite son choix du media de publication Patreon et le présente comme la condition d'une possible de toutes les autres formes d'indépendance : éditoriale, économique, etc. Ces discours me semblent, à leur façon, reprendre des positions anti-GAFAM de manière plus ou moins consciente et explicite, en établissant une corrélation entre l'indépendance technologique, les alternatives éditoriales, et les contenus indépendants ou eux-mêmes alternatifs. Ce discours passe aussi par un recours assumé à des réseaux fermés voire payants, ce qui était inimaginable il y a encore 10 ans. 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+## L'indépendance formelle et esthétique : éloge des longs formats
+
+===
+
+Une seconde revendication d'indépendance renvoie aux formes d'écritures journalistiques, qui tendent vers des formats "alternatifs", podcasts, vidéos, ayant en commun de jouer sur le temps long. Quand je parle de temps long, cela concerne :
+- le format de ce qui est publié (des podcast ou vidéos de 20 à 30 minutes par exemple)
+- le rythme de publication qui favorise des effets "feuilleton" pouvant s'étaler sur des années, comme chez CERNO qui mène depuis 8 ans l'enquête sur l'affaire Paulin.
+- mais également la revendication d'un droit à l'écriture plus long (et c'est en cela peut-être qu'on retrouve ici une certaine idée du *slow journalism*)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>Cette anti-enquête durera le temps qu’elle doit durer et je me laisserai, comme à mon habitude, guider par les rencontres imprévues.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Cerno
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+>Plus le temps passe, et plus les projets grossissent - et ça c’est très cool. Le revers de la médaille, c’est que ma présence se raréfie sur les réseaux… alors que je fais plein de choses ! 
+>Qui peut sortir un documentaire par mois ? C’est la première raison pour laquelle je lance cette page.
+
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+>Marine Périn
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+===
+
+Chez CERNO par exemple : 
+>Cette anti-enquête durera le temps qu’elle doit durer et je me laisserai, comme à mon habitude, guider par les rencontres imprévues.
+
+Pour Marine Périn, Patreon est un moyen de rester sur un réseau sans être soumise à l'injonction de publication des RSN traditionnels, où la visibilité est conditionnelle à l'occupation de l'espace médiatique : 
+>Plus le temps passe, et plus les projets grossissent - et ça c’est très cool. Le revers de la médaille, c’est que ma présence se raréfie sur les réseaux… alors que je fais plein de choses ! 
+>Qui peut sortir un documentaire par mois ? C’est la première raison pour laquelle je lance cette page.
+
+Korben, de son côté, fait du Patreon une réserve de contenus exclusifs payants permettant de financer un site Web aux contenus publics, "sans publicité agressive". C'est également un peu le même sens que Tal Madesta apporte à son Patréon, qu'il présente également comme "une page de soutien".
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+>[J]’aime l’idée de m’entourer d’une communauté rapprochée pour discuter des rouages de mon travail. Pour des raisons politiques et éthiques, j’ai envie que mes contenus journalistiques restent publics et gratuits. [...] Je trouve souvent le procédé de création aussi intéressant que le résultat et c’est ce que je vous propose de retrouver ici : posts, podcasts, vidéos autour de mon travail, de mon militantisme, de ce que vous voyez et ne voyez pas, et de comment tout ça s’entremêle.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
+>Marine Périn
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+===
+
+L'approche de Marine Périn est de ce point de vue assez intéressante : 
+> j’aime l’idée de m’entourer d’une communauté rapprochée pour discuter des rouages de mon travail. Pour des raisons politiques et éthiques, j’ai envie que mes contenus journalistiques restent publics et gratuits. [...] Je trouve souvent le procédé de création aussi intéressant que le résultat et c’est ce que je vous propose de retrouver ici : posts, podcasts, vidéos autour de mon travail, de mon militantisme, de ce que vous voyez et ne voyez pas, et de comment tout ça s’entremêle.
+
+Son Patreon est donc moins un espace médiatique que méta-médiatique, c'est-à-dire un espace de discussion autour de son travail, un lieu de publication des "making of".
+
+Patreon, de ce point de vue, me semble inverser une tendance des RSN qui jouaient un rôle de "vitrine" pour les créateurs de contenus, afin de générer d'autres formes de rémunération, parfois délocalisées. Sur Patreon, il faut finalement déjà bien connaître l'activité du créateur dans d'autres espaces avant de s'engager sur la plateforme. J'y reviendrai car cela a des implications pour les lecteurs.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## L'indépendance financière : la valeur du travail journalistique en question
+
+
+===
+
+La formule est-elle nécessairement gagnante ? Il faudrait interroger directement chaque contributeur pour le savoir. Le seul avec lequel j'en ai parlé directement, c'est Julien Cernobori, pour qui Patreon est un réel coup de pouce, mais ne permet pas non plus de dégager un important salaire alors même que cette activité lui demande énormément de temps. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+| Créateur.ice | Revenus mensuels | Abonnés payants/total abonnés|
+|--------------|------------------|------------------------------|
+| Tal Madesta  |        359,1 €   | 86/434 |
+| CERNO        |  Non disponible  |    1k/3,2k     |
+| Korben       |  2 901 €         |   1,2 k/8,5k      |
+| Marine Perrin|     115,6 €      |     39/213     |
+
+===
+
+Sur chaque profil Patreon figurent des informations au sujet de l'audience, voire des revenus générés :
+
+| Créateur.ice | Revenus mensuels | Abonnés payants/total abonnés|
+|--------------|------------------|------------------------------|
+| Tal Madesta  |        359,1 €   | 86/434 |
+| CERNO        |  Non disponible  |    1k/3,2k     |
+| Korben       |  2 901 €         |   1,2 k/8,5k      |
+| Marine Perrin|     115,6 €      |     39/213     |
+
+Je n'ai pas eu le temps de creuser cette piste, mais il me semble qu'il se joue ici c'est aussi une nouvelle condition du pigiste. 
+
+L'un des principaux intérêts de Patreon, c'est qu'il met au centre du problème la "Valeur travail" du journaliste, dans un contexte où nous avons un peu perdu l'habitude de payer pour accéder à l'information.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Tal Madesta, Marine Perin : plusieurs niveaux de contribution pour un accès identique
+
+>Le don solidaire (3 € / mois) : Tu n'as pas beaucoup de ressources financières mais tu souhaites quand même accéder au contenu exclusif. Pas de problèmes : le don solidaire te le permet, sans que ça ne fragilise mon modèle économique. Merci de me faire confiance !
+
+>Le don conseillé (6€/mois) : c'est le prix réel de mon travail, à choisir si tu ne souhaites pas/ne peux pas faire un don solidaire, mais que tu peux quand même t'engager sur ce montant. Merci à toi pour ce soutien précieux ! 
+
+>Le don éthique (20€/mois) : tu as les moyens financiers de me soutenir, et tu permets à d'autres personnes ayant peu de revenus d'accéder à mon contenu tout en m'assurant un modèle viable sur le long-terme. Merci beaucoup, pour elles et pour moi ! Tous ces niveaux donnent accès au même contenu : je ne souhaite pas que les revenus de chacun-e conditionnent l'accès à ce que je propose. Ce système fonctionne sur la confiance : c'est à toi de réfléchir sur ce que tu es en mesure (ou non) de donner pour le travail que je produirai spécifiquement ici.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+Tal Madesta
+
+<!-- .element: style="font-size:1.4rem; text-align:right" -->
+
+
+===
+
+Comme j'ai pu le dire, sur Patreon il y plusieurs paliers d'abonnements, qui généralement donnent accès à différents types de contenus. 
+
+Chez la plupart des journalistes, et notamment Tal Madesta ou Marine Périn, cette logique du palier a été renversée pour en revenir à la question de cette valeur travail : les contenus sont donc tous accessibles quel que soit le "niveau de contribution", et il revient au lecteur de choisir le niveau qui lui correspond le mieux, en fonction de sa situation économique.  
+
+>Le don solidaire (3 € / mois) : Tu n'as pas beaucoup de ressources financières mais tu souhaites quand même accéder au contenu exclusif. Pas de problèmes : le don solidaire te le permet, sans que ça ne fragilise mon modèle économique. Merci de me faire confiance !
+
+>Le don conseillé (6€/mois) : c'est le prix réel de mon travail, à choisir si tu ne souhaites pas/ne peux pas faire un don solidaire, mais que tu peux quand même t'engager sur ce montant. Merci à toi pour ce soutien précieux ! 
+
+>Le don éthique (20€/mois) : tu as les moyens financiers de me soutenir, et tu permets à d'autres personnes ayant peu de revenus d'accéder à mon contenu tout en m'assurant un modèle viable sur le long-terme. Merci beaucoup, pour elles et pour moi ! Tous ces niveaux donnent accès au même contenu : je ne souhaite pas que les revenus de chacun-e conditionnent l'accès à ce que je propose. Ce système fonctionne sur la confiance : c'est à toi de réfléchir sur ce que tu es en mesure (ou non) de donner pour le travail que je produirai spécifiquement ici.
+
+Cette proposition de Tal Madesta, partagée par d'autres, me donne la transition toute trouvée vers ma conclusion. 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### C'est qui le patron ? 
+
+Éléments de conclusion et de réflexion autour de l'écologie de l'attention post-plateforme
+
+![](img/becomeApatron.jpeg)<!-- .element: style="width:400px" -->
+
+===
+
+"Passer au niveau supérieur", qu'est-ce que cela implique pour moi en tant que lectrice ? Je me suis beaucoup questionnée là-dessus, je n'ai pas encore totalement pris la mesure. Une chose est certaine : je ne pourrai pas toujours passer au niveau supérieur, pour des raison économiques je l'ai dit, mais pas seulement. Pour des raisons également d'engagement de ma part. 
+
+En préparant cette communication, je me suis en fait abonnée "gratuitement" à une dizaine de comptes dont je n'ai pas pu parler ici. Le moins que l'on puisse dire, c'est que cela s'est avéré très fatiguant. Quand bien même Patreon se défend d'être une plateforme pas comme les autres, elle reste une plateforme, qui m'a envahie de notifications (très souvent le dimanche matin). Au début, j'y ai vu une contradiction avec le discours promotionnel de Patreon, mais en fait j'ai vite réalisé que c'était moi qui l'utilisais mal. 
+
+Patreon n'est pas conçue pour suivre autant de profils. Elle engage, du côté de l'usager, une forme de sobriété ou d'écologie de l'attention qui oblige à opérer des choix (une poignée de comptes), qui sont des choix économiques mais également des choix attentionnels. Les contenus publiés sur Patreon, souvent approfondis, requièrent un engagement et une attention soutenue, contrairement aux plateformes sociales habituées aux contenus brefs et aux formes fragmentaires propres au micro-blogging. Bref, s'abonner c'est s'engager, c'est choisir ce que l'on va véritablement pouvoir lire, écouter ou regarder. C'est peut-être cela, cette nouvelle condition de ce que jack Conte appelle le "true fan", qui dans un sens est aussi devenu le "patron", le mécène de son créateur de contenu favori, sur la promesse d'une relation plus authentique. 
+
+Cette relation n'est pas sans risque : à mon sens, il s'agit toujours d'un moyen de monétiser la relation parasociale, c'est-à-dire ce lien affectif unilatéral qu’un individu développe avec une personnalité médiatique, mais en responsabilisant cette relation. Dans un tel contexte, Patreon n’annoncerait-elle pas la fin de la culture de la participation ? Là où le recrutement et l’activation de la participation des internautes sont une préoccupation majeure des gestionnaires de plateformes créatives et des organisateurs d’opérations participatives, la plateforme Patreon aurait donc tendance à diminuer les effets de surproduction et de spectacularisation. Elle semble, pour le moment, poser les conditions d’une sociabilité numérique d’un genre nouveau, fondée sur l’expertise du lecteur, sur sa contribution financière directe, et non plus sur une gestion algorithmique avide de capter l’attention du lecteur pour mieux la monétiser.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Merci !
